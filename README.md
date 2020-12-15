@@ -18,7 +18,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laravii&show_icons=true&locale=en&layout=compact" alt="laravii" /></p>
 
-
+<hr>
+- <p align='left'>I thankfull all of you to take a time to see and contribuite at my repositories </p>
+- <p align='left'> I thankfull all that support me with my carrer trasition </p>
 
 <!--
 **laravii/laravii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
